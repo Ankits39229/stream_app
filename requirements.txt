@@ -1,0 +1,7 @@
+chromadb
+langchain
+langchain-community
+pdfplumber
+streamlit
+ollama
+sqlalchemy
